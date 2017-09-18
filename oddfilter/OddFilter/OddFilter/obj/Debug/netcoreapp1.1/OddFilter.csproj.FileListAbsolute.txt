@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\oddfilter\OddFilter\OddFilter\bin\Debug\netcoreapp1.1\OddFilter.deps.json
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\oddfilter\OddFilter\OddFilter\bin\Debug\netcoreapp1.1\OddFilter.runtimeconfig.json
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\oddfilter\OddFilter\OddFilter\bin\Debug\netcoreapp1.1\OddFilter.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\oddfilter\OddFilter\OddFilter\bin\Debug\netcoreapp1.1\OddFilter.dll
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\oddfilter\OddFilter\OddFilter\bin\Debug\netcoreapp1.1\OddFilter.pdb
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\oddfilter\OddFilter\OddFilter\obj\Debug\netcoreapp1.1\OddFilter.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\oddfilter\OddFilter\OddFilter\obj\Debug\netcoreapp1.1\OddFilter.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\oddfilter\OddFilter\OddFilter\obj\Debug\netcoreapp1.1\OddFilter.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\oddfilter\OddFilter\OddFilter\obj\Debug\netcoreapp1.1\OddFilter.dll
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\oddfilter\OddFilter\OddFilter\obj\Debug\netcoreapp1.1\OddFilter.pdb
