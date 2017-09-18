@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\namefromemail\NameFromEmail\NameFromEmail\bin\Debug\netcoreapp1.1\NameFromEmail.deps.json
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\namefromemail\NameFromEmail\NameFromEmail\bin\Debug\netcoreapp1.1\NameFromEmail.runtimeconfig.json
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\namefromemail\NameFromEmail\NameFromEmail\bin\Debug\netcoreapp1.1\NameFromEmail.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\namefromemail\NameFromEmail\NameFromEmail\bin\Debug\netcoreapp1.1\NameFromEmail.dll
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\namefromemail\NameFromEmail\NameFromEmail\bin\Debug\netcoreapp1.1\NameFromEmail.pdb
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\namefromemail\NameFromEmail\NameFromEmail\obj\Debug\netcoreapp1.1\NameFromEmail.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\namefromemail\NameFromEmail\NameFromEmail\obj\Debug\netcoreapp1.1\NameFromEmail.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\namefromemail\NameFromEmail\NameFromEmail\obj\Debug\netcoreapp1.1\NameFromEmail.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\namefromemail\NameFromEmail\NameFromEmail\obj\Debug\netcoreapp1.1\NameFromEmail.dll
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\namefromemail\NameFromEmail\NameFromEmail\obj\Debug\netcoreapp1.1\NameFromEmail.pdb
