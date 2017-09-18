@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp1.1\Dictionary.deps.json
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp1.1\Dictionary.runtimeconfig.json
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp1.1\Dictionary.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp1.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp1.1\Dictionary.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp1.1\Dictionary.dll
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp1.1\Dictionary.pdb
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp1.1\Dictionary.dll
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp1.1\Dictionary.pdb
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp1.1\Dictionary.csprojResolveAssemblyReference.cache
