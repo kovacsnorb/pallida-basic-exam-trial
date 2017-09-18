@@ -1,0 +1,10 @@
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\UrlsFromHandles\bin\Debug\netcoreapp1.1\UrlsFromHandles.deps.json
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\UrlsFromHandles\bin\Debug\netcoreapp1.1\UrlsFromHandles.runtimeconfig.json
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\UrlsFromHandles\bin\Debug\netcoreapp1.1\UrlsFromHandles.runtimeconfig.dev.json
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\UrlsFromHandles\obj\Debug\netcoreapp1.1\UrlsFromHandles.csprojResolveAssemblyReference.cache
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\UrlsFromHandles\obj\Debug\netcoreapp1.1\UrlsFromHandles.csproj.CoreCompileInputs.cache
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\UrlsFromHandles\obj\Debug\netcoreapp1.1\UrlsFromHandles.AssemblyInfo.cs
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\UrlsFromHandles\bin\Debug\netcoreapp1.1\UrlsFromHandles.dll
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\UrlsFromHandles\bin\Debug\netcoreapp1.1\UrlsFromHandles.pdb
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\UrlsFromHandles\obj\Debug\netcoreapp1.1\UrlsFromHandles.dll
+C:\greenfox\kovacsnorb\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\UrlsFromHandles\obj\Debug\netcoreapp1.1\UrlsFromHandles.pdb
